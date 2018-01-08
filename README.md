@@ -8,7 +8,7 @@ Twitter stopped supporting RSS when their API 1.1 was introduced. To get the lat
   - Easy to install and modify
 
 ## Donations
-Future development of this project depends on community donations. All proceeds will go towards the development. You can donate using "[THIS LINK](https://www.paypal.me/aminpersia)" and make sure to include which project you want to support.
+Future development of this project depends on community donations. All proceeds will go towards the development. You can donate using "[THIS LINK](https://www.paypal.me/leomoon)" and make sure to include which project you want to support.
 
 ## Funded by
   - LeoMoon Studios
